@@ -1,11 +1,26 @@
+# Anirudh Jain Portfolio 🚀
 
-  # Frontend Developer Portfolio Website (Community)
+Frontend Developer focused on building responsive, fast, and user-friendly web applications.
 
-  This is a code bundle for Frontend Developer Portfolio Website (Community). The original project is available at https://www.figma.com/design/v1M8pQ8u0doyJlqJUOi0nF/Frontend-Developer-Portfolio-Website--Community-.
+## 👨‍💻 About Me
 
-  ## Running the code
+I am a Frontend Developer with 4+ years of experience in SEO, website performance optimization, and web development. Currently transitioning into modern frontend development with React.js, JavaScript, Tailwind CSS, and TypeScript.
 
-  Run `npm i` to install the dependencies.
+## 🛠️ Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- REST APIs
+- Git & GitHub
+- WordPress
+- SEO & Core Web Vitals
+
+## Contact
+- LinkedIn: https://linkedin.com/in/anirudh-jain-ai
+- GitHub: https://github.com/Anirudhjain04
+
+⭐ Continuously learning and building projects in React, TypeScript, MERN Stack, and Generative AI.
