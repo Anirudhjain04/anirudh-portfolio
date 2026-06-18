@@ -23,4 +23,6 @@ I am a Frontend Developer with 4+ years of experience in SEO, website performanc
 - LinkedIn: https://linkedin.com/in/anirudh-jain-ai
 - GitHub: https://github.com/Anirudhjain04
 
+---
+
 ⭐ Continuously learning and building projects in React, TypeScript, MERN Stack, and Generative AI.
