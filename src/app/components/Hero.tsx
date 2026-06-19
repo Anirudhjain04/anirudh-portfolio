@@ -34,8 +34,11 @@ Passionate about building fast, responsive, and user-friendly web applications u
             <Button onClick={scrollToProjects} size="lg">
               View Projects
             </Button>
-            <Button variant="outline" size="lg" onClick={scrollToContact}>
+            <Button variant="outline" size="lg" asChild>
+              <a 
+                href="/public/Anirudh_Jain_Frontend_Developer_Resume.pdf" download>
               Download Resume
+              </a>
             </Button>
           </div>
 
