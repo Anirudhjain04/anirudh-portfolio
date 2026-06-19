@@ -20,7 +20,7 @@ I am a Frontend Developer with 4+ years of experience in SEO, website performanc
 - SEO & Core Web Vitals
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/anirudh-jain-ai
+- LinkedIn: https://linkedin.com/in/anirudh-jain-aj
 - GitHub: https://github.com/Anirudhjain04
 
 ---
