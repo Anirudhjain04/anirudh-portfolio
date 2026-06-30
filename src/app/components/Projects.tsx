@@ -7,14 +7,23 @@ import { ImageWithFallback } from "./figma/ImageWithFallback";
 export function Projects() {
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "Anirudh Workbench",
       description:
-        "Full-stack e-commerce solution with React, Next.js, and Stripe integration. Features product catalog, shopping cart, user authentication, and admin dashboard.",
+        "Anirudh Workbench is my personal web development hub where I showcase projects, document my learning journey, and share technical journals.",
+      image: "/Images/Anirudh_workbench.png",
+      technologies: ["React.Js", "Tailwind", "Vite"],
+      liveUrl: "https://anirudh-workbench.vercel.app/",
+      githubUrl: "https://github.com/Anirudhjain04/Anirudh_workbench",
+    },
+    {
+      title: "Crypto Price App",
+      description:
+        "The Crypto Price App is a React-based web application that provides real-time cryptocurrency prices using a public REST API.",
       image:
-        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
-      technologies: ["React", "Next.js", "TypeScript", "Tailwind", "Stripe"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com",
+        "/Images/Crypto_Price_App.png",
+      technologies: ["React.js", "JavaScript", "REST API", "CSS"],
+      liveUrl: "https://crypto-price-app.vercel.app/",
+      githubUrl: "https://github.com/Anirudhjain04/crypto-price-app",
     },
     {
       title: "Task Management Dashboard",
@@ -25,16 +34,6 @@ export function Projects() {
       technologies: ["React", "Firebase", "Material-UI", "Chart.js"],
       liveUrl: "https://example.com",
       githubUrl: "https://github.com",
-    },
-    {
-      title: "Crypto Price App",
-      description:
-        "Developed a cryptocurrency price tracker using React.js and REST APIs. Implemented real-time price fetching for Bitcoin and Ethereum with state management and dynamic UI updates.",
-      image:
-        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
-      technologies: ["React.js", "JavaScript", "REST API", "CSS"],
-      liveUrl: "https://crypto-price-app.vercel.app/",
-      githubUrl: "https://github.com/Anirudhjain04/crypto-price-app",
     },
     {
       title: "Developer Portfolio",
@@ -128,11 +127,16 @@ export function Projects() {
           </div>
         </div>
       </div>
-      {/* <div className="flex justify-center mt-8">
+       <div className="flex justify-center mt-8">
         <Button asChild>
-          <a href="/ProjectsPage">View All Projects →</a>
+          <a
+            href="https://anirudh-workbench.vercel.app/work"
+            target="_blank"
+            >
+              View All Projects →  
+          </a>
         </Button>
-      </div> */}
+      </div> 
     </section>
   );
 }
